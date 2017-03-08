@@ -1,0 +1,18 @@
+#box {
+    width: 10%;
+    padding: 4%;
+    margin: 1%;
+    text-align: center;
+    background-color: black;
+    display:inline-block;
+    border-style: solid;
+    border-radius:20px;
+    border-color:red;
+    color:red;
+    border-width:5px;
+    font-size:35px;
+}
+#box:hover
+{
+    background-color:yellow
+}

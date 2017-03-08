@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class NavMenuComponent implements OnInit {
 
   constructor() { }
-
+  navArray = [{ id:"home"}, {id:"Option"},{id:"instruction"},{ id:"about"}];
   ngOnInit() {
   }
 
