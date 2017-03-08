@@ -9,7 +9,7 @@ import { NavItemComponent } from './nav-item/nav-item.component';
 
 @NgModule({
   declarations: [
-    AppComponent,
+    AppComponent,    
     NavMenuComponent,
     NavItemComponent
   ],
